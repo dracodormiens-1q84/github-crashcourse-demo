@@ -5,3 +5,6 @@ some other description!
 
 ## subheader
 more details!
+
+### local development in feature branch
+open index.html in your browser
